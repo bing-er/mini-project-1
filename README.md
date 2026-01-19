@@ -135,7 +135,7 @@ Evaluation metrics reported for each model:
 ## 👥 Team Contributions
 
 - **Nicky Cheng:** Completed notebooks/01_exploration.ipynb (EDA + initial insights)
-- **Binger Yu:** Completed notebooks/02_modeling.ipynb (preprocessing, modeling, evaluation, visualizations, and analysis)
+- **Binger Yu:** Completed notebooks/02_modeling.ipynb (preprocessing, modeling, evaluation, visualizations, and analysis), wrote README.md, requirements.txt
 
 ---
 
