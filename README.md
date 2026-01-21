@@ -42,7 +42,8 @@ mini-project-1/
 │   ├── 01_exploration.pdf
 │   ├── 01_exploration.html
 │   ├── 02_modeling.ipynb
-│   └── 02_modeling.pdf
+│   ├── 02_modeling.ipynb
+│   └── MP1_Yu_Cheng.pdf
 ├── data/
 │   └── insurance.csv
 ├── requirements.txt
