@@ -32,15 +32,21 @@ The goal of this project is to build regression models that can predict **insura
 ## 🗂️ Repository Structure
 ```text
 mini-project-1/
-├── README.md
-├── requirements.txt
-├── data/
-│   └── insurance.csv
 ├── notebooks/
 │   ├── 01_exploration.ipynb
 │   └── 02_modeling.ipynb
-└── src/
-    └── (optional scripts)
+├── figs/
+│   ├── residual_plot.png
+│   └── pred_vs_actual.png
+├── docs/
+│   ├── 01_exploration.pdf
+│   ├── 01_exploration.html
+│   ├── 02_modeling.ipynb
+│   └── 02_modeling.pdf
+├── data/
+│   └── insurance.csv
+├── requirements.txt
+└── LICENSE
 ```
 
 ---
@@ -134,8 +140,8 @@ Evaluation metrics reported for each model:
 
 ## 👥 Team Contributions
 
-- **Nicky Cheng:** Completed notebooks/01_exploration.ipynb (EDA + initial insights)
-- **Binger Yu:** Completed notebooks/02_modeling.ipynb (preprocessing, modeling, evaluation, visualizations, and analysis), wrote README.md, requirements.txt
+- **Nicky Cheng:** Completed 01_exploration.ipynb (EDA, distributions, correlation checks, and initial written analysis).
+- **Binger Yu:** Completed 02_modeling.ipynb (preprocessing pipeline, feature engineering, training and evaluation of multiple regression models, results plots), finalized requirements.txt and README.md, corrected issues in 01_exploration.ipynb, and prepared the Overleaf LaTeX report framework (template, formatting, and section titles).
 
 ---
 
